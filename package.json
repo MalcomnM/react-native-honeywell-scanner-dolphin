@@ -1,0 +1,29 @@
+{
+  "name": "react-native-honeywell-scanner-dolphin",
+  "version": "1.0.0",
+  "description": "A barcode scanner for Honeywell handheld devices like Honeywell Dolphin CT60",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalcomnM/react-native-honeywell-scanner-dolphin.git"
+  },
+  "keywords": [
+    "honeywell",
+    "barcode",
+    "scanner",
+    "software-trigger"
+  ],
+  "engines": {
+    "node": ">=4.0"
+  },
+  "files": [
+    "android",
+    "index.js"
+  ],
+  "author": "Malcomn Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalcomnM/react-native-honeywell-scanner-dolphin/issues"
+  },
+  "homepage": "https://github.com/MalcomnM/react-native-honeywell-scanner-dolphin#readme"
+}
