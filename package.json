@@ -18,7 +18,8 @@
   },
   "files": [
     "android",
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "author": "Malcomn Mitchell",
   "license": "ISC",
